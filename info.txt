@@ -34,3 +34,32 @@ icons:
     like
         <i class="far fa-heart"></i>
 
+
+
+
+cards
+
+    one plus
+            ₹ 20,000
+            One Plus 7 (Mirror Grey,) 6 GB RAM /128 storage
+            Himayat Nagar, Hyderabad, Telangana
+            Jul 19
+    
+    Maruti Suzuki Alto
+        ₹ 1,85,000 2011 - 51,000 km
+        Maruti Suzuki Alto LXi BS-IV, 2011, Petrol
+        Shahupuri, Kolhapur, Maharashtra
+        Jun 22
+
+    sofa
+        ₹ 29,500
+        Brand new L shape sofa with table &amp; puffies
+        Rohini, Delhi, Delhi
+        2 days ago
+
+    bicycle
+        ₹ 12,999
+        Brand new Fat tyre bikes with shimano gears
+        Samudrapur, Maharashtra, India
+        Jul 21
+
