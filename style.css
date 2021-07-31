@@ -39,9 +39,17 @@
 .slider-card-body{
     padding: 1rem;
 }
+.slider-card:hover{
+    opacity: 0.5;
+}
 
 .slider-card-body > * {
     margin-bottom: 0.5rem;
+}
+.slider-card-body a{
+    text-decoration: none;
+    color: black;
+
 }
 
 .slider-card-body h2{
